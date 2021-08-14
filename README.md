@@ -6,7 +6,7 @@ tags:
   - flask
 ---
 
-# Cat Website
+# Flask-Example
 
 This is a website made in flask to show how flask works.
 
