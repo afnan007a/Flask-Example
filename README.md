@@ -1,6 +1,6 @@
 ---
-title: Cat Website
-description: A Cat Website made in Flask
+title: Flask-Example
+description: A basic Website made in Flask framework
 tags:
   - python
   - flask
@@ -8,7 +8,7 @@ tags:
 
 # Cat Website
 
-This is a [Flask](https://flask.palletsprojects.com/en/1.1.x/) app that gives random cat pictures when you reload the site.
+This is a website made in flask to show how flask works.
 
 ## ✨ Features
 
