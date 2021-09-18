@@ -13,4 +13,4 @@ number_list = [
 def random_page():
   return render_template('index.html', code=choice(number_list))
 
-web_site.run(host='0.0.0.0', port=8080)
+web_site.run(host='0.0.0.0', port=3000)
